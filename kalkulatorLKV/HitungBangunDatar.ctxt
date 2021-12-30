@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=HitungBangunDatar
+comment0.text=\r\n\ A1\ Teknik\ Informatika\r\n\ Rizal\ Syaepulloh(41037006200016)/Aldo\ Febrian\ Dirgantara\ Mulyana(41037006200029)\r\n
+comment1.params=
+comment1.target=void\ luasPersegi()
+comment10.params=
+comment10.target=void\ kelilingBketupat()
+comment2.params=
+comment2.target=void\ kelilingPersegi()
+comment3.params=
+comment3.target=void\ luasPersegiPanjang()
+comment4.params=
+comment4.target=void\ kelilingPersegiPanjang()
+comment5.params=
+comment5.target=void\ luasSegitiga()
+comment6.params=
+comment6.target=void\ kelilingSegitiga()
+comment7.params=
+comment7.target=void\ luasLingkaran()
+comment8.params=
+comment8.target=void\ kelilingLingkaran()
+comment9.params=
+comment9.target=void\ luasBketupat()
+numComments=11
