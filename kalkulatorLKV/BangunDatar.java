@@ -7,7 +7,9 @@ abstract class BangunDatar
 {
     // instance variables - replace the example below with your own
     private int sisi, panjang, lebar, tinggi, alas, diagonal1, diagonal2, jari2;
-
+    public String kons_cm = " cm";
+    public double kons_phi = 3.14;
+    
     //constructor
     public BangunDatar()
     {
@@ -88,24 +90,6 @@ abstract class BangunDatar
     }
     
     //Segment Rumus
-    //Bangun Datar
-    //Persegi
-    public abstract void luasPersegi();
-    public abstract void kelilingPersegi();
-    
-    //Persegi Panjang
-    public abstract void luasPersegiPanjang();
-    public abstract void kelilingPersegiPanjang();
-    
-    //Segitiga
-    public abstract void luasSegitiga();
-    public abstract void kelilingSegitiga();
-    
-    //Lingkaran
-    public abstract void luasLingkaran();
-    public abstract void kelilingLingkaran();
-    
-    //Belah Ketupat
-    public abstract void luasBketupat();
-    public abstract void kelilingBketupat();
+    public abstract void luas();
+    public abstract void keliling();
 }

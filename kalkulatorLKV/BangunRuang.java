@@ -43,14 +43,8 @@ public abstract class BangunRuang
         return tinggi;
     }
     
-    //Bangun Ruang
-    //Kubus
-    public abstract void volumeKubus();
-    public abstract void LuasPermukaanKubus();
-    public abstract void kelilingKubus();
-    
-    //Balok
-    public abstract void volumeBalok();
-    public abstract void LuasPermukaanBalok();
-    public abstract void kelilingBalok();
+    //Rumus Section
+    public abstract void volume();
+    public abstract void LuasPermukaan();
+    public abstract void keliling();
 }
