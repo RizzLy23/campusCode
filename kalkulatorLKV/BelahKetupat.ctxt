@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=BelahKetupat
+comment1.params=diagonal
+comment1.target=BelahKetupat(int)
+comment2.params=
+comment2.target=void\ luas()
+comment3.params=
+comment3.target=void\ keliling()
+numComments=4

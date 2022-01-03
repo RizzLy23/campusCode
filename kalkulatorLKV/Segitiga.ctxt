@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Segitiga
+comment1.params=alas\ tinggiSisi
+comment1.target=Segitiga(int,\ int)
+comment2.params=
+comment2.target=void\ luas()
+comment3.params=
+comment3.target=void\ keliling()
+numComments=4

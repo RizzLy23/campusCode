@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Persegi
+comment1.params=sisi
+comment1.target=Persegi(int)
+comment2.params=
+comment2.target=void\ luas()
+comment3.params=
+comment3.target=void\ keliling()
+numComments=4
